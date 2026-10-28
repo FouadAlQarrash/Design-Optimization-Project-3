@@ -1,7 +1,7 @@
 # Project 3: Can a PINN handle a shock hitting a material interface?
 
 MAE 598 Design Optimization, Project 3 (PINN/PINO in the Field)
-Team: [names]
+Team: Fouad Al Qarrash, Ali Aleidi, Ali Al Shabibi, Omar Al Hinai
 Researcher: Prof. Marcus Herrmann, SEMTE, ASU
 
 **The report is [`report.ipynb`](report.ipynb).** It contains the outreach log, problem brief, minimal case formulation, all experiments (baseline, loss plots, error vs. knob, error maps, cost, diagnosis), the recommendation memo, and limitations. All cells have been run, so it reads fine directly on GitHub.
